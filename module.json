@@ -1,0 +1,68 @@
+{
+  "id": "cg-curse-of-strahd",
+  "title": "CG - Curse of Strahd",
+  "version": "0.1.2",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tagger",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "ClayGolem",
+      "email": "ClayGolemDM@gmail.com",
+      "url": "https://www.youtube.com/channel/UC4vSFO6H_HxTgM1UYnrtVIg",
+      "discord": "ClayGolem",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "cos-adventure",
+      "label": "CGs Curse of Strahd",
+      "path": "packs/cos-adventure",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://drive.google.com/file/d/1U32Q_bJYlj2r975wrEg6u-2p_7zQWRpb/view?usp=sharing"
+}
