@@ -7,6 +7,13 @@
     "verified": "12"
   },
   "relationships": {
+     "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
     "requires": [
       {
         "id": "item-piles",
@@ -34,13 +41,6 @@
         "compatibility": {}
       }
     ],
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
   },
   "authors": [
     {
@@ -64,5 +64,7 @@
       }
     }
   ],
-  "url": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/blob/main/module.json"
+  "url": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/blob/main/module.json",
+  "manifest": "",
+  "download": ""
 }
