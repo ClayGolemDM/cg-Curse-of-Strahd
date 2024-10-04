@@ -65,6 +65,6 @@
     }
   ],
   "url": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/blob/main/module.json",
-  "manifest": "",
+  "manifest": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/releases/latest/download/module.json",
   "download": ""
 }
