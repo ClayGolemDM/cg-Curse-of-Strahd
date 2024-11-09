@@ -10,5 +10,5 @@ You will need these Mods installed in order to activate this mod:
 - LibWrapper
 - SocketLib
 - ItemPiles
-- Monk's Active Tile Triggers
+- Monk's Active Tile Triggers (https://foundryvtt.com/packages/monks-active-tiles/)
 - Tagger
