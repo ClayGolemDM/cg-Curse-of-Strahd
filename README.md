@@ -9,6 +9,6 @@ You will also need a copy of the original Curse of Strahd module, available from
 You will need these Mods installed in order to activate this mod:
 - LibWrapper
 - SocketLib
-- ItemPiles
+- ItemPiles (https://foundryvtt.com/packages/item-piles)
 - Monk's Active Tile Triggers (https://foundryvtt.com/packages/monks-active-tiles/)
-- Tagger
+- Tagger (https://foundryvtt.com/packages/tagger)
