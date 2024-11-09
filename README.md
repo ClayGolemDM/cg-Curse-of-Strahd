@@ -5,8 +5,8 @@ To run this adventure you will need access to the free DragnaCarta version of Cu
 
 You will also need a copy of the original Curse of Strahd module, available from WotC shop or DnDBeyond.
 
-MODS
-You will need there Mods installed in order to activate this mod:
+
+You will need these Mods installed in order to activate this mod:
 - LibWrapper
 - SocketLib
 - ItemPiles
