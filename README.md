@@ -4,7 +4,6 @@ Includes all Pre-built maps, including walls, light, sounds and numerous trigger
 Includes all Actors and Items in the mdoule.
 
 To run this adventure you will need access to the free DragnaCarta version of Curse of Strahd: Reloaded: https://www.strahdreloaded.com/Introduction/A+DM's+Guide+to+Curse+of+Strahd
-
 You will also need a copy of the original Curse of Strahd module, available from WotC shop or DnDBeyond.
 
 
