@@ -1,5 +1,5 @@
 # cg-Curse-of-Strahd
-This is the Foundry V12 version!
+Note that this is V12 and V13 compatble!
 
 A Foundry VTT Adventure pack for running the "Curse of Strahd" D&amp;D adventure.
 Includes all Pre-built maps, including walls, light, sounds and numerous triggers.
