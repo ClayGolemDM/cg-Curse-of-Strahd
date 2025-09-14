@@ -1,4 +1,6 @@
 # cg-Curse-of-Strahd
+This is the Foundry V12 version!
+
 A Foundry VTT Adventure pack for running the "Curse of Strahd" D&amp;D adventure.
 Includes all Pre-built maps, including walls, light, sounds and numerous triggers.
 Includes all Actors and Items in the mdoule.
