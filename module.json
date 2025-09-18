@@ -1,7 +1,7 @@
 {
   "id": "cg-curse-of-strahd",
   "title": "CG - Curse of Strahd",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -67,5 +67,5 @@
   ],
   "url": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd",
   "manifest": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/releases/latest/download/module.json",
-  "download": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/releases/download/1.0.1/cg-curse-of-strahd.zip"
+  "download": "https://github.com/ClayGolemDM/cg-Curse-of-Strahd/releases/download/1.0.0/cg-curse-of-strahd.zip"
 }
