@@ -16,7 +16,7 @@ You will need these Mods installed in order to activate this mod:
 - Monk's Active Tile Triggers (https://foundryvtt.com/packages/monks-active-tiles/)
 - Tagger (https://foundryvtt.com/packages/tagger)
 
-Once you have installed those Mods list above, copy this Module Manifest link: https://github.com/ClayGolemDM/cg-Curse-of-Strahd/releases/download/1.0.1/module.json
+Once you have installed those Mods list above, copy this Module Manifest link: https://github.com/ClayGolemDM/cg-Curse-of-Strahd/releases/download/1.0.0/module.json
 Paste it into the Manifest URL box at the bottom of the Add Ons menu in Foundry (where you were to activate the Mods above). 
 Hey presto! This will install for you. Once done, click Update for the Curse of Strahd mod to ensure you have the latest version with any needed bug-fixes. 
 
