@@ -3,7 +3,7 @@
   "title": "CG - Curse of Strahd",
   "version": "1.0.1",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "12",
     "verified": "13"
   },
   "relationships": {
